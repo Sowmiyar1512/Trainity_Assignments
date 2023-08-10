@@ -8,7 +8,7 @@
 4. Hiring Process Analytics
 5. IMDB Movie Analysis
 Final Project-1
-Bank Loan Case Study
+6. Bank Loan Case Study
 Final Project-2
 
 Then worked as an internship at Trainity as a Data analyst by doing the above projects.
