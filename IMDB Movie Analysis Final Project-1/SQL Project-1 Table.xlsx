@@ -1,0 +1,19 @@
+create database mydb2;
+use mydb2;
+create table employees(
+emp_id int,
+emp_name varchar(20),
+age int,
+gender char(1),
+salary bigint,
+projects smallint
+);
+desc employees;
+
+use mydb1;
+
+create database mydb7;
+use mydb7;
+
+
+
