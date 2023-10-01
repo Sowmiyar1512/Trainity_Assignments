@@ -10,8 +10,11 @@
 Final Project-1
 6. Bank Loan Case Study
 Final Project-2
+
 7.Analyzing the Impact of Car Features on Price and Profitability
+
 8.ABC Call Volume Trend Analysis
+
 9.Portfolio Submission
 
 Then worked as an internship at Trainity as a Data analyst by doing the above projects.
